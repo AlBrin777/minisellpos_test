@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\login\service.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\usuarios\service.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\licencia\service.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\perfiles\service.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\inventario\service.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\compras\service.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\ventas\service.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\ErrorHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\Tools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\libs\ConfigDto.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\libs\PageDto.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\libs\StatusDto.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\login\controller.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\login\db.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\login\service.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\usuarios\controller.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\usuarios\db.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\usuarios\dto.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\usuarios\service.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\licencia\controller.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\licencia\db.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\licencia\dto.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\licencia\service.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\perfiles\controller.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\perfiles\db.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\perfiles\dto.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\perfiles\service.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\inventario\controller.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\inventario\db.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\inventario\dto.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\inventario\service.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\compras\controller.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\compras\db.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\compras\dto.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\compras\service.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\ventas\controller.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\ventas\db.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\ventas\dto.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\ventas\service.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\AppComponent.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\DatabaseComponent.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\ErrorHandler.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\ServiceComponent.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\src\Tools.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Natvis Include="C:\Program Files\nlohmann_json\nlohmann_json.natvis" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{480116DC-9F08-3138-B220-ECB0C69544BB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B089CB31-5EBC-3042-90D3-1B4492715397}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

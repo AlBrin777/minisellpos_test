@@ -1,0 +1,8 @@
+{
+  "dev": {
+    "host": "localhost",
+    "port": 8000,
+    "swaggerHost": "localhost:8000",
+    "dbConnectionString": "postgresql://postgres:caracas@localhost:5432/minisellpos"
+  }
+}

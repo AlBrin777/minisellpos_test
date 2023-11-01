@@ -1,0 +1,6 @@
+C:/Users/Lodfare/Desktop/MINISELL_PROJECT/MINISELL_V0.1/MINISELL/build/CMakeFiles/MINISELL-lib.dir
+C:/Users/Lodfare/Desktop/MINISELL_PROJECT/MINISELL_V0.1/MINISELL/build/CMakeFiles/MINISELL-exe.dir
+C:/Users/Lodfare/Desktop/MINISELL_PROJECT/MINISELL_V0.1/MINISELL/build/CMakeFiles/MINISELL-test.dir
+C:/Users/Lodfare/Desktop/MINISELL_PROJECT/MINISELL_V0.1/MINISELL/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Lodfare/Desktop/MINISELL_PROJECT/MINISELL_V0.1/MINISELL/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Lodfare/Desktop/MINISELL_PROJECT/MINISELL_V0.1/MINISELL/build/CMakeFiles/ZERO_CHECK.dir

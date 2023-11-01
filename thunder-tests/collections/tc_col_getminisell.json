@@ -1,0 +1,101 @@
+{
+    "_id": "37ba5e47-c6b8-4e12-b483-028d818ca55c",
+    "colName": "GET_MINISELL",
+    "created": "2023-07-07T17:58:44.352Z",
+    "sortNum": 20000,
+    "folders": [],
+    "requests": [
+        {
+            "_id": "3665e699-78cf-4de1-8167-8aa7d2e11ace",
+            "colId": "37ba5e47-c6b8-4e12-b483-028d818ca55c",
+            "containerId": "",
+            "name": "getAllLista_producto",
+            "url": "http://localhost:8000/inventario/listas-productos/offset/0/limit/10000",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2023-07-07T17:59:18.324Z",
+            "modified": "2023-07-10T19:56:05.050Z",
+            "headers": [
+                {
+                    "name": "User",
+                    "value": "any0"
+                },
+                {
+                    "name": "Token",
+                    "value": "5bc218fe-67d7-451d-9025-923edb6367fd"
+                }
+            ],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "93bd2471-0028-4b95-9bfd-f498d0048d3a",
+            "colId": "37ba5e47-c6b8-4e12-b483-028d818ca55c",
+            "containerId": "",
+            "name": "getAllProductos",
+            "url": "http://localhost:8000/inventario/productos/offset/0/limit/10000",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-07-07T18:43:42.325Z",
+            "modified": "2023-07-10T17:35:05.048Z",
+            "headers": [
+                {
+                    "name": "User",
+                    "value": "any0"
+                },
+                {
+                    "name": "Token",
+                    "value": "bb77959a-1f2e-11ee-86a6-0bacc1ec3bec"
+                }
+            ],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "711eb4be-0959-4e0d-baff-3ff98dbbf7c7",
+            "colId": "37ba5e47-c6b8-4e12-b483-028d818ca55c",
+            "containerId": "",
+            "name": "getAllcategorias",
+            "url": "http://localhost:8000/inventario/categorias/offset/0/limit/1000",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2023-07-10T15:43:25.473Z",
+            "modified": "2023-07-10T15:45:23.327Z",
+            "headers": [
+                {
+                    "name": "User",
+                    "value": "any0"
+                },
+                {
+                    "name": "Token",
+                    "value": "dedea916-1f37-11ee-9c24-6fd009808290"
+                }
+            ],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "8f9f4990-e07a-4516-aa56-457be5297ff3",
+            "colId": "37ba5e47-c6b8-4e12-b483-028d818ca55c",
+            "containerId": "",
+            "name": "getAllInventarioReport",
+            "url": "http://localhost:8000/inventario/inventario_report/offset/0/limit/1000",
+            "method": "GET",
+            "sortNum": 40000,
+            "created": "2023-07-10T15:46:02.148Z",
+            "modified": "2023-07-10T19:38:45.480Z",
+            "headers": [
+                {
+                    "name": "User",
+                    "value": "any0"
+                },
+                {
+                    "name": "Token",
+                    "value": "d77a8ea8-1f4e-11ee-b559-6ff9c322e313"
+                }
+            ],
+            "params": [],
+            "tests": []
+        }
+    ]
+}

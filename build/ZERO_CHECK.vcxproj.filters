@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Lodfare\Desktop\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\build\CMakeFiles\5dbecf0161aa7da58a74349771984b48\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0E994928-4E97-3B70-A4C0-8ADA53BE66C5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

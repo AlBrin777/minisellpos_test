@@ -1,0 +1,121 @@
+{
+    "_id": "49fec540-7d1f-4fe1-9a3a-f5115d61b307",
+    "colName": "POST_MINISELL",
+    "created": "2023-07-06T14:44:48.633Z",
+    "sortNum": 10000,
+    "folders": [],
+    "requests": [
+        {
+            "_id": "b5ffdf7f-fd1c-4144-93ec-ea0b191840db",
+            "colId": "49fec540-7d1f-4fe1-9a3a-f5115d61b307",
+            "containerId": "",
+            "name": "create_user",
+            "url": "http://localhost:8000/usuarios",
+            "method": "POST",
+            "sortNum": 30000,
+            "created": "2023-07-06T15:24:12.936Z",
+            "modified": "2023-07-06T15:31:06.684Z",
+            "headers": [
+                {
+                    "name": "User",
+                    "value": "jorge64"
+                },
+                {
+                    "name": "Token",
+                    "value": "e9343b48-1c11-11ee-ab22-ab05b50f6b9f"
+                }
+            ],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n\"username\":\"any0\",\n\"email\":\"any@yahoo.com\",\n\"password\":\"1234\",\n\"type_user\":\"Admin\",\n\"token\":\"11111\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "477d8d07-9e28-480c-ad9a-12c3f60edfa2",
+            "colId": "49fec540-7d1f-4fe1-9a3a-f5115d61b307",
+            "containerId": "",
+            "name": "create_inv_producto",
+            "url": "http://localhost:8000/inventario/productos",
+            "method": "POST",
+            "sortNum": 40000,
+            "created": "2023-07-06T15:31:41.777Z",
+            "modified": "2023-07-10T19:38:50.334Z",
+            "headers": [
+                {
+                    "name": "User",
+                    "value": "any0"
+                },
+                {
+                    "name": "Token",
+                    "value": "d77a8ea8-1f4e-11ee-b559-6ff9c322e313"
+                }
+            ],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"cat_producto\": \"Charcuteria\",\n  \"desc_producto\": \"Mortadela Plumerose\",\n  \"serial_producto\": 3333\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "68ed0eba-f005-4e03-9864-e01e9cc73cfb",
+            "colId": "49fec540-7d1f-4fe1-9a3a-f5115d61b307",
+            "containerId": "",
+            "name": "create_inv_category",
+            "url": "http://localhost:8000/inventario/categorias",
+            "method": "POST",
+            "sortNum": 50000,
+            "created": "2023-07-06T17:44:40.297Z",
+            "modified": "2023-07-06T17:56:11.859Z",
+            "headers": [
+                {
+                    "name": "User",
+                    "value": "jorge64"
+                },
+                {
+                    "name": "Token",
+                    "value": "1dba89e0-1c25-11ee-8ce3-13c8bcb31df4"
+                }
+            ],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"name_category\": \"QUESO\",\n  \"metter_category\": \"UND\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "97ea3a0e-5b28-4fa2-b00d-9c0558c0d02d",
+            "colId": "49fec540-7d1f-4fe1-9a3a-f5115d61b307",
+            "containerId": "",
+            "name": "create_inv_list_product",
+            "url": "http://localhost:8000/inventario/listas-productos",
+            "method": "POST",
+            "sortNum": 70000,
+            "created": "2023-07-07T14:15:11.646Z",
+            "modified": "2023-07-07T14:23:22.578Z",
+            "headers": [
+                {
+                    "name": "User",
+                    "value": "any0"
+                },
+                {
+                    "name": "Token",
+                    "value": "0c3eaeca-1c12-11ee-ad67-db97fadb08d1"
+                }
+            ],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"id_producto\":\"a34013b3-2e89-49c2-ab86-c7b9a81ec07f\",\n  \"cantidad_producto\":3,\n  \"precio_unitario\":3,\n  \"precio_total\":3\n}",
+                "form": []
+            },
+            "tests": []
+        }
+    ]
+}

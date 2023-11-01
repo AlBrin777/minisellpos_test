@@ -1,0 +1,10 @@
+^C:\USERS\LODFARE\DESKTOP\MINISELL_PROJECT\MINISELL_V0.1\MINISELL\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Lodfare/Desktop/MINISELL_PROJECT/MINISELL_V0.1/MINISELL -BC:/Users/Lodfare/Desktop/MINISELL_PROJECT/MINISELL_V0.1/MINISELL/build --check-stamp-file C:/Users/Lodfare/Desktop/MINISELL_PROJECT/MINISELL_V0.1/MINISELL/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
